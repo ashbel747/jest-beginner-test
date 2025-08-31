@@ -1,4 +1,4 @@
-# Function Testing Exercise
+#Jest Functions Testing Exercise
 
 This is a simple JavaScript project demonstrating how to write and test functions using [Jest].
 
@@ -19,7 +19,7 @@ This is a simple JavaScript project demonstrating how to write and test function
 Clone this repository:
    ```bash
    git clone https://github.com/ashbel747/jest-beginner-test.git
-   cd <your-repo-folder>
+   cd jest-beginner-test
 
 ##  Install dependencies
 npm install
