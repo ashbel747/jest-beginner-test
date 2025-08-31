@@ -1,4 +1,4 @@
-#Jest Functions Testing Exercise
+## Jest Functions Testing Exercise
 
 This is a simple JavaScript project demonstrating how to write and test functions using [Jest].
 
